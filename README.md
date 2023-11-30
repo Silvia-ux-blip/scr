@@ -1,4 +1,5 @@
 # scr
+![image](https://github.com/Silvia-ux-blip/scr/assets/146952421/26af3788-29cd-487a-9a32-f293968af979)
 # Descorchando la Excelencia
 # Un Viaje Analítico para Prever la Calidad de Vinos Blancos
 ## Datos del vino
