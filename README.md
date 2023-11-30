@@ -1,5 +1,7 @@
 # scr
 ![image](https://github.com/Silvia-ux-blip/scr/assets/146952421/26af3788-29cd-487a-9a32-f293968af979)
+
+![420px-Vignoble_du_vinho_verde svg](https://github.com/Silvia-ux-blip/scr/assets/146952421/e6ced234-82af-45d0-8407-e2ae95916548)
 # Descorchando la Excelencia
 # Un Viaje Analítico para Prever la Calidad de Vinos Blancos
 ## Datos del vino
