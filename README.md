@@ -101,3 +101,7 @@ Además de se tiene que considerar la evaluación de una serie de propiedades or
 
 **Estructura:**
    - La estructura del vino se refiere a cómo interactúan los componentes individuales, como la acidez, los taninos y el alcohol, para formar un todo armonioso. Un buen equilibrio y estructura proporcionan una experiencia de degustación más completa.
+
+![20190517153301-9t9prFvF](https://github.com/Silvia-ux-blip/scr/assets/146952421/7266a1c8-e552-4f48-a569-2c54c5b07918)
+
+
