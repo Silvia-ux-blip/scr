@@ -1,7 +1,9 @@
 # scr
-Descorchando la Excelencia
-Un Viaje Analítico para Prever la Calidad de Vinos Blancos
+# Descorchando la Excelencia
+# Un Viaje Analítico para Prever la Calidad de Vinos Blancos
 ## Datos del vino
+![image](https://github.com/Silvia-ux-blip/scr/assets/146952421/26af3788-29cd-487a-9a32-f293968af979)
+![420px-Vignoble_du_vinho_verde svg](https://github.com/Silvia-ux-blip/scr/assets/146952421/e6ced234-82af-45d0-8407-e2ae95916548)
 
 Es un estudio sobre el vinho verde , un producto único de la región de Minho (noroeste) de Portugal. De contenido medio alcohólico, es especialmente apreciado por su frescor (especialmente en verano). Este vino representa el 15% de la producción total portuguesa, y alrededor del 10% se exporta, principalmente vino blanco.
 
