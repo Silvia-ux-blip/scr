@@ -13,6 +13,8 @@ La certificación del vino se evalúa generalmente mediante pruebas fisicoquími
 
 Presento un estudio de caso para modelar preferencias gustativas basadas en datos analíticos que, están fácilmente disponibles en el paso de certificación del vino. Construir un modelo de este tipo es valioso no sólo para las entidades de certificación sino también para los productores de vino e incluso para los consumidores. Puede utilizarse para apoyar las evaluaciones de vinos del enólogo, mejorando potencialmente la calidad y la rapidez de sus decisiones. Además, medir el impacto de las pruebas fisicoquímicas en la calidad final del vino es útil para mejorar el proceso de producción. Además, puede ayudar en el marketing objetivo, es decir, aplicando técnicas similares para modelar las preferencias del consumidor en nichos de mercado y/o mercados rentables.
 
+![image](https://github.com/Silvia-ux-blip/scr/assets/146952421/5536268a-d77b-442a-a6fd-04e2c829c99f)
+
 ## Conjunto de datos sobre la calidad del vino
 
 El conjunto de datos sobre calidad del vino implica predecir la calidad de los vinos blancos en una escala dada  con las medidas químicas de cada vino. https://archive.ics.uci.edu/dataset/186/wine+quality
